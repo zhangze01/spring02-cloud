@@ -1,0 +1,11 @@
+# Project exclude paths
+/common-spring/target/
+/config02-server/target/
+/config-server/target/
+/eruka01-spring/target/
+/eruka02-spring/target/
+/feign-cloud/target/
+/provider-cloud/target/
+/ribbon-cloud/target/
+/zuul-cloud/target/
+
